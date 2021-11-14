@@ -8,8 +8,8 @@ import About from "./components/About";
 import {
   BrowserRouter as Router, 
   Switch, //Note Switch change by Routes 
-  Route,
-  Link
+  Route
+
 } from "react-router-dom";
 import React, { useState } from 'react';
 
